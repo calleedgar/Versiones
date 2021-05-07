@@ -1,3 +1,5 @@
-Este es un archivo para verificar el control de versiones.Esta es la versi—n uno
+Este es un archivo para verificar el control de versiones.Esta es la versi—n cinco millones seiscientos cincuenta
+
+Este archivo alterno se usa para verificar los cambios
 
 
